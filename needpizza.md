@@ -11,6 +11,8 @@
 
 # But what about the meatballs!!!!!!!!!!!!!!!
 
+# Hawaiian pizza is the best!!
+
 # MAMA MIA WE NEEDA DA PIZZA !!
 
 ### But what about the meatballs!?
@@ -18,7 +20,4 @@
 
 [Picture of beautiful pizza](http://del.h-cdn.co/assets/16/37/980x490/landscape-1473887556-beauty-pizza.jpg)
 
-
-##### HEY MISTER PIZZA SURE IS GOOOOOOD!!!!!!!!!!!
-
-##### BOY HOWDY I LIKE PIZZA
+hi
