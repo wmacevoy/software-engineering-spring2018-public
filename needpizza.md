@@ -4,9 +4,8 @@
 
 # But what about the meatballs!!!!!!!!!!!!!!!
 
-<<<<<<< HEAD
 # Hawaiian pizza is the best!!
-=======
+
 # MAMA MIA WE NEEDA DA PIZZA !!
 
 ### But what about the meatballs!?
