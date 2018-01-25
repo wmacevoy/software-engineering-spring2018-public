@@ -1,0 +1,3 @@
+# Waldo Status file
+
+## here.
