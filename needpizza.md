@@ -2,6 +2,12 @@
 
 ### Pizza issues solved:
 
+| Toppings | Sauce | Cheese |
+| -------- | :---: | ------ |
+| pepperoni | marinara | mozzarella |
+| sausage | white | parmesan |
+| anchovies | hot oil | mozzarella |
+
 # But what about the meatballs!!!!!!!!!!!!!!!
 
 # MAMA MIA WE NEEDA DA PIZZA !!
