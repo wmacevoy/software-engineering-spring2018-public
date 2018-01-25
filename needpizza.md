@@ -2,6 +2,12 @@
 
 ### Pizza issues solved:
 
+| Toppings | Sauce | Cheese |
+| -------- | :---: | ------ |
+| pepperoni | marinara | mozzarella |
+| sausage | white | parmesan |
+| anchovies | hot oil | mozzarella |
+
 # But what about the meatballs!!!!!!!!!!!!!!!
 
 # Hawaiian pizza is the best!!
@@ -13,11 +19,4 @@
 
 [Picture of beautiful pizza](http://del.h-cdn.co/assets/16/37/980x490/landscape-1473887556-beauty-pizza.jpg)
 
-
-# HEY MISTER PIZZA SURE IS GOOOOOOD!!!!!!!!!!!
-<<<<<<< HEAD
->>>>>>> 5fd333c7d5e47bb20eee848e2034d1dd73df3264
-=======
-
-# BOY HOWDY I LIKE PIZZA
->>>>>>> 5fedb180939c8015ee877ab56d327b9eabc7238a
+hi
